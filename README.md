@@ -60,6 +60,11 @@ The key concept is **decoupling of read and write paths**, which eliminates read
 ---
 
 ## 📈 Simulation Results
+
+### 📊 Transient Waveform
+<img width="1912" height="836" alt="7T_SRAM_Read_Write_Hold_Waveform" src="https://github.com/user-attachments/assets/9cb3ee82-bcf8-468f-800f-cf5ecd69b7bd" />
+<img width="1919" height="904" alt="7T_SRAM_Read_Write_Hold_Waveform2" src="https://github.com/user-attachments/assets/7a6cccf5-0880-4c6d-affc-417d1293aedc" />
+<img width="1910" height="831" alt="7T_SRAM_Read_Write_Hold_Waveform3" src="https://github.com/user-attachments/assets/c6cf9e50-c265-4376-b586-92d63ddb2bec" />
 Transient simulations verify:
 
 - ✅ Successful write operation  
