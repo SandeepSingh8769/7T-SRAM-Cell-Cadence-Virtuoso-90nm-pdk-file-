@@ -2,8 +2,6 @@
 <p align="center"><b>Low-Power • High Stability • Read-Disturb Free</b></p>
 # Design and Analysis of 7T SRAM Cell using Cadence Virtuoso
 
-<img width="1585" height="953" alt="7T_SRAM_Transistor_Schematic" src="https://github.com/user-attachments/assets/fec3c296-686d-44d7-b0ca-5974cf6cc717" />
-
 ## 📌 Overview
 Static Random Access Memory (SRAM) is widely used in high-speed and low-power VLSI systems. Conventional 6T SRAM cells suffer from read disturb issues, reduced static noise margin (SNM), and higher leakage at scaled technologies.  
 
@@ -62,7 +60,7 @@ The key concept is **decoupling of read and write paths**, which eliminates read
 ## 📈 Simulation Results
 
 ### 📊 Transient Waveform
-![7T SRAM Waveform](images/7T_SRAM_Transistor_Schematic.png)
+
 Transient simulations verify:
 
 - ✅ Successful write operation  
