@@ -1,4 +1,3 @@
-![7T SRAM](images/7T_SRAM_Transistor_Schematic.png)
 <h1 align="center">7T SRAM Cell Design using Cadence Virtuoso (90nm)</h1>
 <p align="center"><b>Low-Power • High Stability • Read-Disturb Free</b></p>
 # Design and Analysis of 7T SRAM Cell using Cadence Virtuoso
